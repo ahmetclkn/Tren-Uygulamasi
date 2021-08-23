@@ -1,0 +1,7 @@
+C:\Users\ahmet\OneDrive\Masaüstü\tren\TrenUygulamasi\bin\Debug\TrenUygulamasi.exe.config
+C:\Users\ahmet\OneDrive\Masaüstü\tren\TrenUygulamasi\bin\Debug\TrenUygulamasi.exe
+C:\Users\ahmet\OneDrive\Masaüstü\tren\TrenUygulamasi\bin\Debug\TrenUygulamasi.pdb
+C:\Users\ahmet\OneDrive\Masaüstü\tren\TrenUygulamasi\obj\Debug\TrenUygulamasi.csproj.AssemblyReference.cache
+C:\Users\ahmet\OneDrive\Masaüstü\tren\TrenUygulamasi\obj\Debug\TrenUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\OneDrive\Masaüstü\tren\TrenUygulamasi\obj\Debug\TrenUygulamasi.exe
+C:\Users\ahmet\OneDrive\Masaüstü\tren\TrenUygulamasi\obj\Debug\TrenUygulamasi.pdb
